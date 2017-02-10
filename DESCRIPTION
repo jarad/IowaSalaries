@@ -1,0 +1,11 @@
+Package: IowaSalaries
+Title: Data concerning salaries of Iowa State Employees
+Version: 0.1
+Authors@R: person("Jarad", "Niemi", email = "niemi@iastate.edu", role = c("aut", "cre"))
+Description: This package contains data scraped from the Des Moines register
+    concerning salaries for Iowa State Employees. The main purpose is to collect
+    data for the Faculty Compensation Committee at Iowa State University.
+Depends: R (>= 3.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
