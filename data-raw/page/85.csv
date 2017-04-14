@@ -1,0 +1,26 @@
+Employee,Department,Position,County,Sex,July Salary,"Travel, etc",FY Salary,FY
+"SCHOONBROODT,ALICE",University of Iowa,Assistant Professor,JOHNSON,F,"$131,070.00","$3,787.78","$141,070.04",2016
+"BECKER,JODI JILL",University of Iowa - Hospital & Clinics,Critical Care/neonatal Arnp,LINN,F,"$138,020.00","$2,750.33","$141,069.91",2016
+"ELCOCK,ADRIAN H",University of Iowa,Professor,JOHNSON,M,"$134,000.00",$0.00,"$141,061.92",2016
+"DHANWADA, KAVITA R",University of Northern Iowa,Assoc Provost Acad Aff,BLACK HAWK,F,"$157,094.00","$2,592.95","$141,048.98",2016
+"BOCK,MOLLY JO",University of Iowa,Certified Rn Anesthetist/sup,JOHNSON,F,"$144,475.00",$0.00,"$140,941.97",2016
+"STEVENS,HANNA",University of Iowa,Assistant Professor,JOHNSON,F,"$143,575.00","$5,191.73","$140,825.00",2016
+"GRONSTAL,BARBARA ANN",University of Iowa,Neonatal Nurse Practitioner,JOHNSON,F,"$137,464.00",$0.00,"$140,823.75",2016
+"CWIERTNY,DAVID MICHAEL",University of Iowa,Associate Professor,JOHNSON,M,"$110,799.00","$7,479.49","$140,783.60",2016
+"KAUER,AARON JOHN",University of Iowa,Clinical Assistant Professor,JOHNSON,M,"$143,575.00",$0.00,"$140,760.00",2016
+"GUNDERSON,CARISSA B",University of Iowa,Clinical Assistant Professor,JOHNSON,F,"$143,575.00",$0.00,"$140,760.00",2016
+"CORNELL,ROBERT A",University of Iowa,Professor,JOHNSON,M,"$129,702.00","$5,688.43","$140,705.05",2016
+"DAILEY,SARAH C",University of Iowa,Certified Rn Anesthetist/sup,JOHNSON,F,"$150,000.00","$2,220.25","$140,661.63",2016
+"HILLIS,STEPHEN LAWRENCE",University of Iowa,Research Professor,JEFFERSON,M,"$95,793.00","$5,514.41","$140,658.57",2016
+MCKELVOGUE CALVIN R,Administrative Services,Public Service Executive,POLK,M,"5,530.40 BW","$4,171.57","$140,628.80",2016
+THOMPSON JEFFREY S,"Attorney General, Office of",Deputy Attorney General,POLK,M,"5,530.40 BW",$344.01,"$140,628.80",2016
+TABOR ERIC J,"Attorney General, Office of",Deputy Attorney General,POLK,M,"5,530.40 BW",$165.50,"$140,628.80",2016
+ORMISTON TAMMIE B,"Attorney General, Office of",Deputy Attorney General,POLK,M,"5,530.40 BW","$2,500.50","$140,628.80",2016
+MCCARTHY KEVIN M,"Attorney General, Office of",Deputy Attorney General,POLK,M,"5,530.40 BW","$5,755.65","$140,628.80",2016
+TRITCH LORRIE L,"Chief Information Officer, Office of",Public Service Executive,WARREN,F,"5,530.40 BW",$0.00,"$140,628.80",2016
+LARSON STEVEN C,"Chief Information Officer, Office of",Info Tech Admin 4,STORY,M,"5,530.40 BW",$171.89,"$140,628.80",2016
+FRANKLIN JEFF ALLAN,"Chief Information Officer, Office of",Info Tech Admin 4,POLK,M,"5,530.40 BW","$7,072.35","$140,628.80",2016
+WILDER-TOMLINSON DIANN,Corrections - Central Office,Deputy Corrections Prog,POLK,F,"5,530.40 BW",$0.00,"$140,628.80",2016
+FAUST DOROTHY,Corrections - Central Office,Deputy Corrections Prog,DALLAS,F,"5,530.40 BW","$1,024.84","$140,628.80",2016
+CLARK DANIEL J,Corrections - Industries,Deputy Corrections Prog,POLK,M,"5,530.40 BW",$604.40,"$140,628.80",2016
+MITCHELL DAVID L,Education,Public Service Executive,POLK,M,"5,530.40 BW","$2,590.13","$140,628.80",2016

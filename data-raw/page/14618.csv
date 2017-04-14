@@ -1,0 +1,26 @@
+Employee,Department,Position,County,Sex,July Salary,"Travel, etc",FY Salary,FY
+HADD MARY C,Administrative Services,Info Tech Specialist 4,POLK,F,"$3,056.00",$0.00,"$77,100.40",2010
+COFFEY JULIE K MEYER,University of Iowa,Advanced Reg Nurse Prac,JOHNSON,F,"$78,357.00",$572.80,"$77,086.00",2010
+CAHILL WILLIAM PAUL,Iowa State University,Program Mgr I,STORY,M,"$79,900.00",$0.00,"$77,085.50",2010
+MYERS JOCELINE M,Iowa Veterans Home,Food Services Assistant,MARSHALL,F,"$2,260.00",$0.00,"$77,075.50",2010
+MCLEESE DONALD GEORG,University of Iowa,Associate Professor,JOHNSON,M,"$78,000.00","$2,200.00","$77,065.00",2010
+STALTER TIMOTHY JOHN,University of Iowa,Associate Professor,JOHNSON,M,"$78,200.00",$0.00,"$77,065.00",2010
+CONRAD MARY K,University of Iowa,Business Manager II,LINN,F,"$79,600.00",$0.00,"$77,065.00",2010
+HOLT LINDA J,Public Health,Info Tech Specialist 4,POLK,F,"$3,056.00",$0.00,"$77,053.40",2010
+HENRY MADELEINE M,Iowa State University,Prof,STORY,F,"$81,233.00","$1,085.16","$77,053.00",2010
+SNITZER JAMES G,University of Iowa,Professor,JOHNSON,M,"$78,400.00",$0.00,"$77,050.00",2010
+ALY TRACY LEIGH,University of Iowa Hospit,Program Associate II,JOHNSON,F,"$79,310.00","$2,147.52","$77,050.00",2010
+SMITH JERI BUOL,University of Iowa,"Sr Fin Sys Analyst, Fin M",JOHNSON,F,"$78,505.00",$0.00,"$77,048.00",2010
+MITRA SIMANTA,Iowa State University,Senior Lecturer,STORY,M,"$72,466.00",$0.00,"$77,037.80",2010
+ENGLAND MICHAEL L,Commerce,Info Tech Specialist 4,POLK,M,"$3,056.00",$0.00,"$77,036.10",2010
+SELLMEYER LEE R,Commerce,Insurance Company Examin,DALLAS,M,"$3,186.40","$1,039.83","$77,036.10",2010
+CLEMENS REGINA A,Public Safety,Sergeant,DALLAS,F,"$2,859.20","$1,120.67","$77,020.40",2010
+ERAL DAVID D,Public Safety,Sergeant,CHEROKEE,M,"$2,859.20",$0.00,"$77,017.30",2010
+HEDLUND LAWRENCE R,Public Safety,Special Agent,WEBSTER,M,"$2,859.20",$20.00,"$77,010.40",2010
+SCHAAF RICHARD M,Public Safety,Sergeant,BOONE,M,"$2,859.20",$490.93,"$77,008.20",2010
+AUWERDA PEGGY A,Iowa State University,Assoc Prof,STORY,F,"$78,818.00","$1,170.37","$77,005.00",2010
+GAUL MICHAEL CHARLES,Iowa State University,Dir Career Placmnt,STORY,M,"$81,183.00","$3,944.52","$77,005.00",2010
+NELSON SANDRA L,Education,Education Program Consul,POLK,F,"$2,996.00","$10,064.40","$77,003.00",2010
+ESHBAUGH ELAINE M,University of Northern Io,Asst Professor,BLACK HAWK,F,"$52,106.00",$956.84,"$77,002.80",2010
+RIDNOUR KATHY M,Transportation,Exec Off 2,STORY,F,"$2,996.00",$998.19,"$77,001.00",2010
+ZHANG XIAOYI,University of Iowa,Assistant Professor,JOHNSON,F,"$76,000.00","$3,167.49","$77,000.00",2010

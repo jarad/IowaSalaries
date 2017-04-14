@@ -1,0 +1,26 @@
+Employee,Department,Position,County,Sex,July Salary,"Travel, etc",FY Salary,FY
+"RUST, PATTI J",University of Northern Iowa,Senior Associate Regis,GRUNDY,F,"$91,168.00","$1,552.12","$88,724.72",2016
+"KLIEWER, CHRISTOPHER L",University of Northern Iowa,Professor,BLACK HAWK,M,"$83,968.00","$1,514.69","$88,712.08",2016
+WARD LAURA R,Education,Rehabilitation Superviso,POLK,F,"3,488.80 BW",$0.00,"$88,712.00",2016
+VAN DYKE ERIC J,Education,Rehabilitation Superviso,POLK,M,"3,488.80 BW",$0.00,"$88,712.00",2016
+PRANGE SALLY A,Education,Rehabilitation Superviso,POTTAWATTAMIE,F,"3,488.80 BW","$3,735.48","$88,712.00",2016
+MAYES THOMAS A,Education,Attorney 2,POLK,M,"3,488.80 BW","$8,330.24","$88,712.00",2016
+HOWELL MICHAEL J,Education,Rehabilitation Superviso,BREMER,M,"3,488.80 BW",$528.60,"$88,712.00",2016
+FRICE SUZANNE A,Education,Rehabilitation Superviso,DES MOINES,F,"3,488.80 BW",$726.09,"$88,712.00",2016
+FAULKNER STEVEN J,Education,Rehabilitation Superviso,CERRO GORDO,M,"3,488.80 BW",$701.39,"$88,712.00",2016
+MCDERMOTT KRISTINE A,Human Services - Woodward,Nurse Supervisor,GUTHRIE,F,"3,488.80 BW",$199.99,"$88,712.00",2016
+HODAPP MARY L,Human Services - Woodward,Social Work Administrato,STORY,F,"3,488.80 BW",$0.00,"$88,712.00",2016
+STREIF SHERRY L,Human Services - Independence,Nurse Supervisor,BUCHANAN,F,"3,488.80 BW",$0.00,"$88,712.00",2016
+MAIN TIMOTHY E,Human Services - Independence,Social Work Administrato,BUCHANAN,M,"3,488.80 BW",$0.00,"$88,712.00",2016
+HILL CAROL A,Human Services - Glenwood,Nurse Supervisor,MILLS,F,"3,488.80 BW",$0.00,"$88,712.00",2016
+BOHRER LESLIE J,Human Services - Glenwood,Nurse Supervisor,,M,"3,488.80 BW",$9.67,"$88,712.00",2016
+BLEZEK TRACI A.,Human Services - Glenwood,Nurse Supervisor,MILLS,F,"3,488.80 BW",$0.00,"$88,712.00",2016
+WHITE ELIZABETH A,Human Services - Cherokee,Nurse Supervisor,CHEROKEE,F,"3,488.80 BW",$0.00,"$88,712.00",2016
+TURNER DAWN L,Human Services - Administration,Social Work Administrato,CERRO GORDO,F,"3,488.80 BW","$4,730.08","$88,712.00",2016
+SCHREYER LETA M,Human Services - Administration,Social Work Administrato,DUBUQUE,F,"3,488.80 BW","$3,776.20","$88,712.00",2016
+GUTCHEWSKY CAROL L,Human Services - Administration,Social Work Administrato,MILLS,F,"3,488.80 BW","$5,649.57","$88,712.00",2016
+JORDAN KATHLEEN M,Human Services - Administration,Social Work Administrato,BLACK HAWK,F,"3,488.80 BW","$2,588.23","$88,712.00",2016
+ALGER PAMELA R,Human Services - Administration,Social Work Administrato,POWESHIEK,F,"3,488.80 BW","$2,112.15","$88,712.00",2016
+ANDERSON PATTI A,Human Services - Administration,Social Work Administrato,WOODBURY,F,"3,488.80 BW",$926.54,"$88,712.00",2016
+GOULD MICHAEL S,Iowa Economic Development Authority,Econ Development Special,POLK,M,"3,488.80 BW","$9,644.43","$88,712.00",2016
+POLLEY AARON M,Iowa Veterans Home,Nurse Supervisor,MARSHALL,M,"3,488.80 BW",$0.00,"$88,712.00",2016
