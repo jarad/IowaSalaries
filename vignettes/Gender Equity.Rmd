@@ -1,0 +1,30 @@
+---
+title: "Gender Pay Equality"
+author: "Jarad Niemi"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The purpose of this document is to evaluate gender pay equality at Iowa State University.
+
+```{r}
+library("dplyr")
+library("ilog")
+
+ISU_Salaries <- IowaSalaries::IowaSalaries %>%
+  filter(Department == "Iowa State University",
+         grepl("prof",tolower(Position))) %>%
+  mutate(log_salary = ilog(july_salary),
+         Sex = factor(Sex, levels = c("M","F")))
+
+m <- lm(log_salary ~ Sex + Position, 
+        data = ISU_Salaries %>% filter(log_salary>10.5))
+opar = par(mfrow=c(2,3)); plot(m, 1:6, ask=FALSE); par(opar)
+
+summary(m)
+exp(confint(m)[2,])
+```
